@@ -7,6 +7,6 @@
 header {
     background: linear-gradient(#00000086, #00000086), url("images/header.png");
 }
-img-bg {
-    height: 500px;
+.img-bg {
+    height: 700px;
 }
